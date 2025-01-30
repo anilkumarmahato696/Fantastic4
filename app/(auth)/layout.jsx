@@ -1,6 +1,6 @@
 import React from "react";
-import css from "@/styles/authLayout.module.css";
-import Image from "next/image";
+import css from "@/styles/authLayout.module.css"; // Importing CSS module for styling
+import Image from "next/image"; // Importing Next.js optimized Image component
 export const metadata = {
   title: "Authentication",
 };
